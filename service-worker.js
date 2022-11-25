@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/furniture-shopping-website/precache-manifest.92eace12626b7a38742dbe629cea9d0c.js"
+  "/furniture-shopping-website-contexv/precache-manifest.ce9fa52d056049ffd625d60b9b2cb8b0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/furniture-shopping-website/index.html", {
+workbox.routing.registerNavigationRoute("/furniture-shopping-website-contexv/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
