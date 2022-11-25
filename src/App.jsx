@@ -20,9 +20,14 @@ function App() {
         <BrowserRouter>
           <Header />
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/furniture-shopping-website" element={<Home />} />
-        <Route path="/" element={<Navigate to="/furniture-shopping-website" />} />
+            <Route
+              path="/furniture-shopping-website-contexv"
+              element={<Home />}
+            />
+            <Route
+              path="/"
+              element={<Navigate to="/furniture-shopping-website-contexv" />}
+            />
             <Route path="/login" element={<Login />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
