@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/furniture-shopping-website/static/media/letter.fc36ed7d.jpg"
   },
   {
-    "revision": "be6df3f0c9855796ae0c099ee4ca43ce",
-    "url": "/furniture-shopping-website/static/media/bootstrap-icons.be6df3f0.woff"
-  },
-  {
     "revision": "31e1300d419245fd27614630601dc74d",
     "url": "/furniture-shopping-website/static/media/bootstrap-icons.31e1300d.woff2"
+  },
+  {
+    "revision": "be6df3f0c9855796ae0c099ee4ca43ce",
+    "url": "/furniture-shopping-website/static/media/bootstrap-icons.be6df3f0.woff"
   },
   {
     "revision": "1874f549d17eeb0f686bc714ef07c78f",
